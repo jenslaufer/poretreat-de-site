@@ -1,6 +1,0 @@
----
-title: "Dummy Blg Post"
-output: html_document
----
-
-Just a dummy post
