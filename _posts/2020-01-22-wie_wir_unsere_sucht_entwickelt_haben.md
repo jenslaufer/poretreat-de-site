@@ -3,7 +3,7 @@ title: "Wie wir unsere Pornosucht entwickelt haben"
 subtitle: "Über Gewohnheiten, die aus dem Ruder laufen"
 categories:
   - blog
-image: "Photo by Francesco Gallarotti on Unsplash"
+image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1580919536/francesco-gallarotti-ruQHpukrN7c-unsplash.jpg"
 image_caption: "Photo by Francesco Gallarotti on Unsplash"
 ---
 
