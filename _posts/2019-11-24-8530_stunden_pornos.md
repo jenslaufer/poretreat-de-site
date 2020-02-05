@@ -3,8 +3,8 @@ title: "8530 Stunden Pornos"
 subtitle: "Es gibt wichtigere Dinge im Leben als Pornos"
 categories:
   - blog
-# image: ishan-seefromthesky-562756-unsplash.png
-# image_caption: "Photo by Ishan @seefromthesky on Unsplash"
+image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_70,w_800/v1580912062/charles-XTsxQ2Hl28g-unsplash.jpg"
+image_caption: "Photo by Charles on Unsplash"
 ---
 
 8530 Stunden Pornos, das sind 355 Tage meines Lebens. 355 Tage, fast ein Jahr habe ich ununterbrochen damit verbracht Pornos anzusehen. Was für eine verschwendete Zeit. Wertvolle Lebenszeit, in denen ich keine Zeit mit meinen Kindern, meiner Frau und meinen Freunden verbracht habe. Stunden in denen ich nicht die Sonne draußen genossen habe, nicht gelesen habe, nicht am See schwimmen oder in der Sauna war. Schöne Zeit in Cafés und Restaurants. Zeit in der ich Sport hätte treiben können. Ich habe Chancen im Beruf nicht wahrgenommen, weil ich in der Zeit nichts Neues gelernt habe. Die Liste des Verpassten ist unendlich lang. Diese Zeit ist unwiederbringlich verloren.
