@@ -3,8 +3,8 @@ title: "Eine Nacht in London"
 subtitle: "Warum Pornos dich zu einem schlechten Liebhaber machen"
 categories:
   - blog
-# image: ishan-seefromthesky-562756-unsplash.png
-# image_caption: "Photo by Ishan @seefromthesky on Unsplash"
+image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1580913917/charles-7gMeEfqq5vc-unsplash.jpg"
+image_caption: "Photo by Charles on Unsplash"
 ---
 
 Ich traf sie an der Hotelbar, sie sah schön und verführerisch aus. Ihr Körper war perfekt in ihren eleganten Kleidern. Wir kamen schnell in ein Gespräch und die Spannung zwischen uns war vom ersten Moment an da. Sie war verheiratet wie ich, und wir waren auf einer Geschäftsreise Hunderte von Kilometern von Deutschland entfernt. Es bestand keine Gefahr, von unseren Partnern erwischt zu werden. Ich hatte für ein paar Monate keinen Sex mit meiner Frau, weil ich mein sexuelles Interesse an ihr verloren habe, obwohl sie meine perfekte Partnerin war. Diese Frau fragte mich, ob ich noch einen Drink in ihrem Hotelzimmer haben möchte. Es war klar, was dort passieren würde.

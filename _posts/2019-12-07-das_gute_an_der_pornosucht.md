@@ -3,8 +3,8 @@ title: "Das Gute an der Pornosucht"
 subtitle: "Warum wir dankbar sein sollten eine unstillbare Gier auf Pornografie zu haben und nicht nach etwas Anderem"
 categories:
   - blog
-# image: ishan-seefromthesky-562756-unsplash.png
-# image_caption: "Photo by Ishan @seefromthesky on Unsplash"
+image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_64,w_800/v1580913562/nghia-le-V3DokM1NQcs-unsplash_1.jpg"
+image_caption: "Photo by Nghia Le on Unsplash"
 ---
 
 Wenn du den Titel liest denkst du, dass ich spinne. Da predige ich unaufhörlich, dass du deine Pornosucht in Griff bekommen musst und nun erzähle ich dir, dass diese Sucht etwas Gutes hat. Es geht mir um etwas Anderes: Jahrelang hat mich der Gedanke zerfressen nicht Herr dieser Sucht zu werden. Nach Zeiten der Abstinenz bin ich immer doch wieder rückfällig geworden. Selbst heute nach meiner längsten Abstinenzphase bin ich nicht geheilt. Du musst akzeptieren, dass dich das Problem dein restliches Leben verfolgen wird. Wie sehr es dich verfolgt hängt davon ab wie lange du süchtig warst. Je länger desto mehr hat sich die Sucht in deinem Gehirn manifestiert. Deswegen musst du deinen Frieden mit der Sucht schließen und sie als einen Teil von dir akzeptieren, um eine gewisse Unbekümmertheit ihr gegenüber zu entwickeln.
