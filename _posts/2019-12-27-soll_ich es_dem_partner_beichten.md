@@ -3,8 +3,8 @@ title: "Die Pornosucht in Beziehungen"
 subtitle: "Ist es eine gute Idee die Sucht dem Partner zu beichten?"
 categories:
   - blog
-# image: ishan-seefromthesky-562756-unsplash.png
-# image_caption: "Photo by Ishan @seefromthesky on Unsplash"
+image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1580918820/mike-lloyd-ksWKFRLi85I-unsplash.jpg"
+image_caption: "Photo by Mike Lloyd on Unsplash"
 ---
 
 Vor einigen Jahren hatte ich eine Beziehung zu einer viel jüngeren Frau. Ich mochte die Frau sehr, wenngleich relativ schnell klar war, dass es keine Beziehung

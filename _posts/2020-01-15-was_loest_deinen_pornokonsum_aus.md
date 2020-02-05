@@ -3,8 +3,8 @@ title: "Der Moment an dem es passiert"
 subtitle: "Was sind deine Auslöser die dich Pornos schauen lassen"
 categories:
   - blog
-# image: ishan-seefromthesky-562756-unsplash.png
-# image_caption: "Photo by Ishan @seefromthesky on Unsplash"
+image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1580919149/anthony-roberts-82wJ10pX1Fw-unsplash.jpg"
+image_caption: "Photo by Anthony Roberts on Unsplash"
 ---
 
 Der Anfang des Tages war sehr gut gelungen. Das gesunde Frühstück, das anschließende Fitness-Workout und die kalte Dusche waren die Grundvoraussetzung für einen guten Tag. Und das hatte ich geschafft. Ich fühlte mich frisch und stark, ich freute mich auf mein Projekt an dem ich heute arbeiten wollte, weil ich vor Energie sprühte. Mein Bauchgefühl sagte mir, dass ich heute etwas schaffen würde. Um 08:00 Uhr saß ich mit meinem Schallschutzkopfhörer an meinem Schreibtisch hörte meine Lieblingsmusik und war fokussiert auf die Arbeit. Ich ruhte in mir und geriet in einen Flow.

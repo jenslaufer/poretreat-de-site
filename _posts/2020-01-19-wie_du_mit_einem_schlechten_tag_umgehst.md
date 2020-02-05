@@ -3,8 +3,8 @@ title: "Über den Umgang mit schlechten Tagen"
 subtitle: "Welchen Preis zu zahlst, wenn du an schlechten Tag resignierst und wie du dieses Tage noch rettest"
 categories:
   - blog
-# image: ishan-seefromthesky-562756-unsplash.png
-# image_caption: "Photo by Ishan @seefromthesky on Unsplash"
+image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_63,w_800/v1580913016/christian-erfurt-sxQz2VfoFBE-unsplash.jpg"
+image_caption: "Photo by Christian Erfurt on Unsplash"
 ---
 
 Du bist frustriert und liegst am Boden. Schon wieder ist es passiert: Den ganzen Vormittag hast du es dir gemacht während du Pornos angesehen hast. Auf der Arbeit hast du dich gestern schon krank gemeldet, eigentlich wolltest du heute wieder hingehen. Kurzfristig hast du gesagt, dass du dich noch schlecht fühlst. Gestern ist es passiert und heute gleich wieder. Heute sollte dein erster guter Tag werden. Du hattest den Wecker früh gestellt, um mit deinem Sportprogramm zu starten. Stattdessen hast du mehrfach die Schlummertaste gedrückt. Du heulst, weil du seit Jahren probierst etwas zu ändern und es dir einfach nicht gelingt. Am liebsten würdest du alles hinschmeißen. Der einzige Hoffnungsschimmer ist den Tag jetzt einfach abzuhaken und ihn mit einer Packung Chips auf der Couch zu verbringen. Du hängst auf der Couch ab, deine Gedanken drehen sich nur darum wie du wieder versagt hast. Es nagt an dir, du spielst noch ein Computerspiel um dich abzulenken. Du weißt, daß nur der Schlaf heute Nacht eine Linderung des Schmerzes bringst. Zum Abendessen bestellst eine Pizza und trinkst den Rest des Rotweins, den du eigentlich wegschütten wolltest. Egal jetzt.

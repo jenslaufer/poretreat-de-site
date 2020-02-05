@@ -3,8 +3,8 @@ title: "Die Gewohnheitslawine weg von den Pornos"
 subtitle: 'Wie einige "Keystone Habits" dich weg von der Pornosucht ziehen'
 categories:
   - blog
-# image: ishan-seefromthesky-562756-unsplash.png
-# image_caption: "Photo by Ishan @seefromthesky on Unsplash"
+image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1580918965/marten-bjork-rH8O0FHFpfw-unsplash.jpg"
+image_caption: "Photo by Marten Bjork on Unsplash"
 ---
 
 Noch vor fünf Jahren sahen meine Tage so aus: Nachdem Aufwachen starrte ich auf mein Smartphone, um neue E-Mails, WhatsApp- oder Sportnachrichten zu lesen. Oft hat es eine halbe Stunde gedauert, bevor ich mich aufgerafft habe in den Tag zu starten. Oder ich habe mich nochmal im Bett umgedreht. Dann habe ich Frühstück für die Familie gemacht und mich mit meiner Frau zu unterhalten. Ich mochte es schon immer über aktuelle Nachrichten, Politik, Sport oder über das Leben zu philosophieren. Schnell war da eine dreiviertel Stunde vorbei. Mein Wecker klingelte gegen sechs, aber mit Duschen, Frühstück, Kinder versorgen war es schnell 08:30 Uhr und es begann Hektik und Stress. Gegen 09:30 fing ich meist mit der Arbeit an. Ich probierte dann viele Stunden ohne Pause durchzuarbeiten. Während der Arbeit ließ ich mich durch mein Smartphone ablenken. Die Arbeit war unkonzentriert und ohne jeglichen Fokus. Im Homeoffice schaute ich ständig Pornos und onanierte dabei. Oft über mehrere Stunden. Ich schaffte nie meine Tagesplanung. Gott sei Dank arbeite ich der IT, ich konnte das gut cachieren. Ich war ein Meister der Ausreden bei meinen Kunden. Mein Arbeitstag endete gegen 18:00 Uhr. Zu Hause half ich nicht im Haushalt mit und stopfte mich abends vor dem Fernseher mit Süßigkeiten voll. Ich war zu tiefst unzufrieden mit meinem Leben. Ich bin ein Mensch voller guter Ideen, aber hatte die Goldgräberjahre im Internet verpasst, weil ich Projekte nicht zu Ende führen konnte. Die Sucht nach Pornos und Onanie waren ein Hauptgrund dafür. Sport machte ich viel zu selten. Gerne trank ich ein Glas Rotwein zur Betäubung der Wut und des Schmerzes.
