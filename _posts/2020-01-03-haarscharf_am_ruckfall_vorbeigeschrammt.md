@@ -3,8 +3,8 @@ title: "Haarscharf am Rückfall vorbeigeschrammt"
 subtitle: "Über toxische Menschen, die mich fast rückfällig werden ließen und wie ich das Desaster gerade noch abwendete"
 categories:
   - blog
-# image: ishan-seefromthesky-562756-unsplash.png
-# image_caption: "Photo by Ishan @seefromthesky on Unsplash"
+image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_63,w_1944/v1580912489/charles-kCpGrE0G8NE-unsplash.jpg"
+image_caption: "Photo by Ishan @seefromthesky on Unsplash"
 ---
 
 Es war dunkel und der Regen tropfte auf mich herab. Der Ort neben dem Komposthaufen an dem ich befand war nicht sonderlich charmant und ich war viel zu dünn angezogen. Die Regentropfen waren nicht sehr angenehm auf der Haut, ich fröstelte. Trotzdem genoss ich die Ruhe und war völlig unbeweglich. Die Spannung in mir ließ mir nach, so wie wenn Lampenfieber nach einem Auftritt nachlässt. Nichts zog mich zurück ins Haus. Ich hätte noch Stunden dort stehen können. Es gab wirklich nur einen Grund warum ich schließlich wieder aufmachte: Der Geburtstag meines Sohnes. Im Haus wurde ich von meiner Schwiegermutter mit der Frage empfangen wo ich so lange gewesen war. Ich spürte, wie der Druck in mir wiederanstieg, wie bei einem Kessel auf dem Herd.

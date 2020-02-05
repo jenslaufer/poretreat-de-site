@@ -3,8 +3,8 @@ title: "Bin ich süchtig nach Pornos?"
 subtitle: "Wie du rausfinden kannst, ob du süchtig bist"
 categories:
   - blog
-# image: ishan-seefromthesky-562756-unsplash.png
-# image_caption: "Photo by Ishan @seefromthesky on Unsplash"
+image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_72,w_800/v1580911587/charles-X7Wi_QZFu3E-unsplash.jpg"
+image_caption: "Photo by Charles on Unsplash"
 ---
 
 Wenn ich mit Menschen über Pornosucht spreche, dann ist die Reaktion ganz unterschiedlich.
