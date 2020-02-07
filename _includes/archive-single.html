@@ -19,7 +19,7 @@
     </div>
     {% endif %}
     {% if post.image %}
-    <img src="{{ post.image }}" width="40%">
+    <img src="{{ post.image }}" width="80%">
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
@@ -30,7 +30,7 @@
       {% endif %}
     </h2>
     {% if post.subtitle %}
-    <h3>{{ post.subtitle }}</h3>
+    <h3 class="archive__item-subtitle">{{ post.subtitle }}</h3>
     {% endif %}
     {% if post.read_time %}
     <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
