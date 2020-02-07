@@ -8,7 +8,7 @@
 minimal_mistakes_skin: "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
-locale: "en"
+locale: "de"
 title: "poretreat.de"
 title_separator: "-"
 name: "Eric Meier"
