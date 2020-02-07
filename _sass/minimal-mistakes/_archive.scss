@@ -28,20 +28,21 @@
   font-size: $type-size-5;
   color: $muted-text-color;
   border-bottom: 1px solid $border-color;
-
-  + .list__item .archive__item-title {
-    margin-top: 0.5em;
-  }
 }
 
-.archive__item-title h2 {
-  margin: 1em 0 0 0;
+.archive__item h2 {
+  margin-top: 0.3em;
+  font-size: $type-size-4;
+}
+
+.archive__item h3 {
+  margin-top: 0.5em;
+  margin-bottom: 0.3em;
   font-size: $type-size-5;
+  font-weight: 530;
 }
-
-.archive__item-title h3 {
-  margin: 0.5em 0 0 1em;
-  font-size: $type-size-6;
+.archive__item p {
+  margin-bottom: 6em;
 }
 
 .archive__item-title {
