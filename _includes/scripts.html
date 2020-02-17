@@ -7,7 +7,6 @@ script contains "://" %} {% capture script_path %}{{ script }}{% endcapture %}
 <script src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
 {% endif %} {% include analytics.html %} {% include
 /comments-providers/scripts.html %}
-
 <script async>
   (function(s, u, m, o, j, v) {
     j = u.createElement(m);
@@ -17,5 +16,5 @@ script contains "://" %} {% capture script_path %}{{ script }}{% endcapture %}
     j.dataset.sumoSiteId =
       "53f605fbe129ebbd8616e5fba7764016e6c23b961faed7c16b08fa176ed15334";
     v.parentNode.insertBefore(j, v);
-  })(window, document, "script", "//c/");
+  })(window, document, "script", "//load.sumo.com/");
 </script>
