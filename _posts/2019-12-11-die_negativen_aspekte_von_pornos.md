@@ -1,8 +1,6 @@
 ---
 title: "Die negativen Aspekte von Pornos"
 subtitle: "Warum wir schleunigst unsere Pornosucht in Griff bekommen sollten"
-categories:
-  - blog
 image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1580913743/francisco-moreno-wuo8KnyCm4I-unsplash.jpg"
 image_caption: "Photo by Francisco Moreno on Unsplash"
 ---

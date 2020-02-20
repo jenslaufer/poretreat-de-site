@@ -1,8 +1,6 @@
 ---
 title: "Bin ich süchtig nach Pornos?"
 subtitle: "Wie du rausfinden kannst, ob du süchtig bist"
-categories:
-  - blog
 image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_72,w_800/v1580911587/charles-X7Wi_QZFu3E-unsplash.jpg"
 image_caption: "Photo by Charles on Unsplash"
 ---

@@ -87,7 +87,7 @@ author:
   bio: "Über ein Jahr ohne Pornos"
   location: "Frankfurt a. Main, Germany"
   email:
-  uri: ""
+  uri:
   bitbucket:
   codepen:
   dribbble:
@@ -232,6 +232,9 @@ compress_html:
 collections:
   products:
     output: true
+  posts:
+    output: true
+    permalink: /blog/:title:output_ext
 
 # Defaults
 defaults:

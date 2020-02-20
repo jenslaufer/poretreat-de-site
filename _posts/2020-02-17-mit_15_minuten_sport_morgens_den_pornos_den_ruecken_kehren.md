@@ -1,8 +1,6 @@
 ---
 title: "Mit 15 Minuten Sport am Morgen den Pornos den Rücken kehren"
 subtitle: "Starte den Tag mit einem kleiner Trainingseinheit und er wird gut"
-categories:
-  - blog
 image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1581925315/matthew-lejune-uU5Jz-b-0yI-unsplash.jpg"
 image_caption: "Photo by Matthew LeJune on Unsplash"
 ---
