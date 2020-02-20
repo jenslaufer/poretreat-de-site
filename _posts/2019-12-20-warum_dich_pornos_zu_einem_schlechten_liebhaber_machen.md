@@ -1,8 +1,6 @@
 ---
 title: "Eine Nacht in London"
 subtitle: "Warum Pornos dich zu einem schlechten Liebhaber machen"
-categories:
-  - blog
 image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1580913917/charles-7gMeEfqq5vc-unsplash.jpg"
 image_caption: "Photo by Charles on Unsplash"
 ---

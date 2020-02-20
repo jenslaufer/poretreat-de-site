@@ -1,8 +1,6 @@
 ---
 title: "Der Moment an dem es passiert"
 subtitle: "Was sind deine Auslöser die dich Pornos schauen lassen"
-categories:
-  - blog
 image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1580919149/anthony-roberts-82wJ10pX1Fw-unsplash.jpg"
 image_caption: "Photo by Anthony Roberts on Unsplash"
 ---

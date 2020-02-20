@@ -1,8 +1,6 @@
 ---
 title: "Über den Umgang mit schlechten Tagen"
 subtitle: "Welchen Preis zu zahlst, wenn du an schlechten Tag resignierst und wie du dieses Tage noch rettest"
-categories:
-  - blog
 image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_63,w_800/v1580913016/christian-erfurt-sxQz2VfoFBE-unsplash.jpg"
 image_caption: "Photo by Christian Erfurt on Unsplash"
 ---

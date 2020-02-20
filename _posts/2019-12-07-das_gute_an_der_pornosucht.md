@@ -1,8 +1,6 @@
 ---
 title: "Das Gute an der Pornosucht"
 subtitle: "Warum wir dankbar sein sollten eine unstillbare Gier auf Pornografie zu haben und nicht nach etwas Anderem"
-categories:
-  - blog
 image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_64,w_800/v1580913562/nghia-le-V3DokM1NQcs-unsplash_1.jpg"
 image_caption: "Photo by Nghia Le on Unsplash"
 ---

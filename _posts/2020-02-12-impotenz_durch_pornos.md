@@ -1,8 +1,6 @@
 ---
 title: "Hilfe! Ich bekomme keinen hoch."
 subtitle: "Warum Pornos uns impotent machen"
-categories:
-  - blog
 image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,w_800/v1581490935/charles-ILYDgtHZ9PE-unsplash.jpg"
 image_caption: "Photo by Charles on Unsplash"
 ---

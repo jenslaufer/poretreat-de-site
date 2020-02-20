@@ -1,8 +1,6 @@
 ---
 title: "8530 Stunden Pornos"
 subtitle: "Es gibt wichtigere Dinge im Leben als Pornos"
-categories:
-  - blog
 image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_70,w_800/v1580912062/charles-XTsxQ2Hl28g-unsplash.jpg"
 image_caption: "Photo by Charles on Unsplash"
 ---

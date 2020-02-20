@@ -1,8 +1,6 @@
 ---
 title: "Die Pornosucht in Beziehungen"
 subtitle: "Ist es eine gute Idee die Sucht dem Partner zu beichten?"
-categories:
-  - blog
 image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1580918820/mike-lloyd-ksWKFRLi85I-unsplash.jpg"
 image_caption: "Photo by Mike Lloyd on Unsplash"
 ---

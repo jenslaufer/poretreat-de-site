@@ -1,8 +1,6 @@
 ---
 title: "Wie Pornos unseren Körper kaputt machen"
 subtitle: "Von Pornoschultern, Wichshänden und Kurzpinklern"
-categories:
-  - blog
 image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1581923084/mitchell-hollander-_zBxc8T-Y1Y-unsplash.jpg"
 image_caption: "Photo by Mitchell Hollander on Unsplash"
 ---
