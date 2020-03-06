@@ -1,15 +1,20 @@
-{% if site.footer_scripts %}
-  {% for script in site.footer_scripts %}
-    {% if script contains "://" %}
-      {% capture script_path %}{{ script }}{% endcapture %}
-    {% else %}
-      {% capture script_path %}{{ script | absolute_url }}{% endcapture %}
-    {% endif %}
-    <script src="{{ script_path }}"></script>
-  {% endfor %}
-{% else %}
-  <script src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
+{% if site.footer_scripts %} {% for script in site.footer_scripts %} {% if
+script contains "://" %} {% capture script_path %}{{ script }}{% endcapture %}
+{% else %} {% capture script_path %}{{ script | relative_url }}{% endcapture %}
 {% endif %}
-
-{% include analytics.html %}
-{% include /comments-providers/scripts.html %}
+<script src="{{ script_path }}"></script>
+{% endfor %} {% else %}
+<script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+{% endif %} {% include analytics.html %} {% include
+/comments-providers/scripts.html %}
+<script async>
+  (function(s, u, m, o, j, v) {
+    j = u.createElement(m);
+    v = u.getElementsByTagName(m)[0];
+    j.async = 1;
+    j.src = o;
+    j.dataset.sumoSiteId =
+      "53f605fbe129ebbd8616e5fba7764016e6c23b961faed7c16b08fa176ed15334";
+    v.parentNode.insertBefore(j, v);
+  })(window, document, "script", "//load.sumo.com/");
+</script>

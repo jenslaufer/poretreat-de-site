@@ -78,7 +78,7 @@ social:
 analytics:
   provider: google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id: UA-137587120-1
+    tracking_id: UA-158598069-1
 
 # Site Author
 author:
@@ -87,7 +87,7 @@ author:
   bio: "Über ein Jahr ohne Pornos"
   location: "Frankfurt a. Main, Germany"
   email:
-  uri: ""
+  uri:
   bitbucket:
   codepen:
   dribbble:
@@ -232,6 +232,9 @@ compress_html:
 collections:
   products:
     output: true
+  posts:
+    output: true
+    permalink: /blog/:title:output_ext
 
 # Defaults
 defaults:

@@ -1,8 +1,6 @@
 ---
 title: "Mit einem Schritt weg von den Pornos wegkommen"
 subtitle: "Wie du dich heute noch von den Pornos abkoppelst kannst"
-categories:
-  - blog
 image: https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1581407612/simon-matzinger-KOpe_J4JDn8-unsplash.jpg"
 image_caption: "Photo by Simon Matzinger on Unsplash"
 ---

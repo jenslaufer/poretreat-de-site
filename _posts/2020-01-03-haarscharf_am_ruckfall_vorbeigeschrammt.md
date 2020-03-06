@@ -1,8 +1,6 @@
 ---
 title: "Haarscharf am Rückfall vorbeigeschrammt"
 subtitle: "Über toxische Menschen, die mich fast rückfällig werden ließen und wie ich das Desaster gerade noch abwendete"
-categories:
-  - blog
 image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_63,w_1944/v1580912489/charles-kCpGrE0G8NE-unsplash.jpg"
 image_caption: "Photo by Ishan @seefromthesky on Unsplash"
 ---

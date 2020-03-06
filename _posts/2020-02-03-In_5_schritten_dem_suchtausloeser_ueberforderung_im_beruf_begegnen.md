@@ -1,8 +1,6 @@
 ---
 title: 'In 5 Schritten dem Suchtauslöser "Überforderung im Beruf" begegnen'
 subtitle: "Wie man mit Pomodorotechnik die Überforderung beim Arbeiten reduziert und wie man damit mehr in weniger Zeit schafft"
-categories:
-  - blog
 image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1580974122/hanna-stolt-Cdi9Bjvceck-unsplash.jpg"
 image_caption: "Photo by Ishan @seefromthesky on Unsplash"
 ---

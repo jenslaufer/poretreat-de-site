@@ -1,8 +1,6 @@
 ---
 title: "Die Gewohnheitslawine weg von den Pornos"
 subtitle: 'Wie einige "Keystone Habits" dich weg von der Pornosucht ziehen'
-categories:
-  - blog
 image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1580918965/marten-bjork-rH8O0FHFpfw-unsplash.jpg"
 image_caption: "Photo by Marten Bjork on Unsplash"
 ---
