@@ -1,6 +1,6 @@
 ---
 title: "Die schönen Dinge im Leben"
-subtitle: "Warum die Pornosucht vielleicht verbreiteter ist als angenommen"
+subtitle: "Es gibt soviel was du verpasst, wenn du dich mit Pornos überflutest"
 image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1583488699/jamie-fenn-G5olxxSuHcs-unsplash.jpg"
 image_caption: "Photo by Jamie Fenn on Unsplash"
 ---
