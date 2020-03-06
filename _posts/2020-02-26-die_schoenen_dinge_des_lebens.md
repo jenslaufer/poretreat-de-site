@@ -1,8 +1,8 @@
 ---
 title: "Die schönen Dinge im Leben"
 subtitle: "Warum die Pornosucht vielleicht verbreiteter ist als angenommen"
-image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1580918965/marten-bjork-rH8O0FHFpfw-unsplash.jpg"
-image_caption: "Photo by Marten Bjork on Unsplash"
+image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1583488699/jamie-fenn-G5olxxSuHcs-unsplash.jpg"
+image_caption: "Photo by Jamie Fenn on Unsplash"
 ---
 
 Als Pornsosüchtiger hast du vorallem eins gelernt: Pornos als Antwort für alle Situationen des Lebens in den Raum zu schmeißen.
