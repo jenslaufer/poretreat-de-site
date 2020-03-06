@@ -1,8 +1,8 @@
 ---
 title: "Pornosucht- Das unterschätzte Problem"
 subtitle: "Warum die Pornosucht vielleicht verbreiteter ist als angenommen"
-image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1580918965/marten-bjork-rH8O0FHFpfw-unsplash.jpg"
-image_caption: "Photo by Marten Bjork on Unsplash"
+image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1583489715/danting-zhu-TFSu8udP5dw-unsplash.jpg"
+image_caption: "Photo by Danting Zhu on Unsplash"
 ---
 
 Ich habe die Hypothese, dass viel mehr Männer ein Problem mit ihrem Pornokonsum haben als allgemein bekannt ist.
