@@ -1,8 +1,8 @@
 ---
 title: "Onanie ohne Pornos"
 subtitle: "Wie du mit phantasievollen Geschichten im Kopf wieder zurückfindest"
-image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1581925315/matthew-lejune-uU5Jz-b-0yI-unsplash.jpg"
-image_caption: "Photo by Matthew LeJune on Unsplash"
+image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1583478656/scott-sanker-IDaeLeKiie0-unsplash.jpg"
+image_caption: "Photo by Scott Sanker on Unsplash"
 ---
 
 Wieder habe ich sie in der Kantine gesehen. Ich weiss nicht, was sie an sich hat, aber ich fühle mich sexuell stark zu ihr hingezogen. Jedoch hab ich ein "Problem", ich bin verheiratet und habe Kinder; das ist gut so und soll auch so bleiben. Vor Kurzem habe ich gesehen, dass sie ebenfalls einen Partner hat. Von meiner Seite werde ich also keine Schritte unternehmen. Ausserdem hat sie hat mich noch nicht einmal wahrgenommen. Objektiv gesehen ist meine Frau attraktiver als sie, aber trotzdem reizt mich diese Frau mich sexuell.
