@@ -8,4 +8,4 @@ Starte dein besseres Leben noch heute.
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 
-<a class="gumroad-button" href="https://gum.co/pornosucht?wanted=true" target="_blank">Kaufe mein Produkt</a>
+<a class="gumroad-button" href="https://gum.co/pornosucht?wanted=true" target="_blank">Bestelle mein eBook</a>
