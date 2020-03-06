@@ -37,3 +37,6 @@ Hast du eine Stelle am Körper mit Hornhaut? Streichle einmal mit deinem Finger 
 Danach streichle über eine Stelle ohne Hornhaut. Merkst du den Unterschied?
 
 Durch das viele "Rubbeln" an deinem Geschlechtsteil entwickelst du so etwas wie eine Hornhaut. Du bist dort einfach nicht mehr so empfindsam. Das liegt an den wie bereits erwähnten langen Zeiten, die du mit Pornos verbringst. Durch die kürzeren Zeiten bei der Onanie mit Pornos schonst du deinen "Nerven".
+
+
+## Zusammenfassung
