@@ -8,4 +8,4 @@ services:
       - .:/srv/jekyll
     ports:
       - 8080:4000
-    entrypoint: jekyll serve #-H localhost
+    entrypoint: jekyll serve --trace #-H localhost
