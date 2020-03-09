@@ -11,7 +11,7 @@ minimal_mistakes_skin: "default" # "air", "contrast", "dark", "dirt", "mint", "s
 locale: "de"
 title: "poretreat.de"
 title_separator: "-"
-name: "Eric Meier"
+name: "Jens L."
 description: "Wie Du deine Pornosucht loswirst und ein besseres Leben führst"
 url: "https://poretreat.de"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Eric Meier"
+  name: "Jens L."
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Über ein Jahr ohne Pornos"
   location: "Frankfurt a. Main, Germany"
