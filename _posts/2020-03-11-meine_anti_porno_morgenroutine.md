@@ -35,23 +35,48 @@ Ich esse zum Frühstück ein Müsli aus Chiasamen, Haferflocken, Nüssen, Mandel
 
 Wusstest du das ich gerne viel rede? Genau das mache, wenn ich mit meiner Frau beim Frühstück sitze. Ich sinniere mit ihr über Gott und die Welt. Meist schlafen die Kinder noch, es ist also einer der seltenen Momente einer ungestörten Unterhaltung. Nach und nach trudeln dann die Kinder zum Frühtsück ein.
 
-## 06:50 Aufräumen/Haushaltsarbeit
+### 06:50 Aufräumen/Haushaltsarbeit
 
 Aufräumen und Arbeit im Haushalt haben mich früher überfordert, die Vorstellung eines Wäschebergs, den ich zusammenlegen muss war ein Graus. Ich habe mir angewöhnt zweimal am Tag für 25 Minuten etwas im Haushalt zu tun. Die Begrenzung der Zeit ist wichtig, weil ich weiss, dass die Zeit für die unliebsame Tätigkeit begrenzt ist. Ich suche mir in der Zeit einfach Dinge, die mir auffallen: den Wäscheberg, Müll rausbringen, Betten machen etc. Wenn die Zeit beim Wäschezusammenlegen abläuft, dann höre ich einfach auf.
 
-## 07:20 Zähneputzen
+### 07:20 Zähneputzen
 
 Zum Zähneputzen gibt es nicht viel zu sagen, außer, dass das frische Gefühl im Mund ein kleines Highlight am Morgen ist.
 
-## 07:25 Meditation
+### 07:25 Meditation
 
 Seit ein paar Monaten meditiere ich. Ich stehe noch am Anfang meiner Reise, stelle aber fest, dass das Meditieren mir gut tut. Die Konzentration auf den Atem bringt mich runter. Die Bewusstseinübungen ist im Übrigen sehr hilfreich beim Zurseiteschieben des Drang nach Pornos. Meditation ist definitiv ein Thema über das ich bald schreiben möchte.
 [Headspace](https://www.headspace.com/) ist eine App für geführte Meditation mit der ich gute Erfahrungen gemacht habe.
 
-## 08:00 Arbeit
+### 08:00 Arbeit
 
-Ich hab das Glück im Homeofice arbeiten zu können, d.h ich habe keine langen Anfahrtszeiten zur Arbeit. Allerdings ist die Arbeit zu Hause am Computer eine Herausforderung für einen Pornosüchtigen: Die Filme sind immer in Reichweite.
-Meine Arbeitszeit strukturiere ich in 50 Minuten Blöcken mit 15 Minuten Pause dazwischen. Bis 15:30 arbeite ich sechs Blöcke, was effektiv nur 5 Stunden reine Arbeitszeit sind.
+Ich hab das Glück im Homeoffice arbeiten zu können, d.h ich habe keine langen Anfahrtszeiten zur Arbeit. Allerdings ist die Arbeit zu Hause am Computer eine Herausforderung für einen Pornosüchtigen: Die Filme sind immer in Reichweite.
+Meine Arbeitszeit strukturiere ich in 50 Minuten Blöcken mit 15 Minuten Pause dazwischen. Bis 15:30 arbeite ich sechs Blöcke, was effektiv nur 5 Stunden reine Arbeitszeit sind. Ich verwende die Promodorotechnik für das Zeitmanagement. In meinem Artikel [In 5 Schritten dem Suchtauslöser “Überforderung im Beruf” begegnen](https://poretreat.de/blog/In_5_schritten_dem_suchtausloeser_ueberforderung_im_beruf_begegnen.html) schreibe ich mehr zum Thema Arbeit.
+
+Vormittags habe ich zwei Pausen von 15 Minuten. In einer Pause dehne ich mich und in der anderen bereite ich meinen Salat für den Mittag vor. In jeder Pause trinke ich frisches Wasser.
+
+### 11:00 Lesen
+
+Gegen 11 lese ich für etwa eine halbe Stunde. Meistens lese ich in Fachbüchern zum Thema Lebensberatung,
+"Self-Improvement", Psychologie, Data Science. Oder ich lese auf [medium.com](https://medium.com). Dort gibt es viele Fachartikel in allen Bereichen.
+
+### 11:30 Powernap
+
+Die Arbeit in konzentrierten Blöcken ermüdet sehr. Schon während des Lesens spüre ich meine Müdigkeit. Der Powernap steigert mein Energielevel wieder. Ich fühle mich erfrischt, bereit für die zweite Hälfte des Arbeitstages.
+
+### 12:00 Mittagessen
+
+Ich esse jeden Tag Salat mindestens fünf verschiedenen Rohkostsorten zu Mittag. Meist sind es jedoch eher 7-10 frische Zutaten im Salat. Jeden Tag das Gleiche zu essen klingt langweilig, aber erstens liebe ich Salat und zweitens gibt es keine anderen Optionen über die ich mir Gedanken machen. Die Wahl des Abendsessens ist flexibel.
+
+![Salat mit mindestens 5 Rohkostenzutaten](https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1583999731/IMG_20190216_130820.jpg)
+
+### 12:30 Arbeit
+
+Nach dem Mittagsessen arbeite ich nochmal 3 Blöcke. In den Pausen mache ich einen kurzen Spaziergänge und/oder einen kurzen Powernap. Im letzten Arbeitsblock plane ich u.a. den nächsten Tag, um zu wissen was ich an dem Tag zu tun habe.
+
+### 15:30 Feierabend
+
+Gegen halb vier mache ich Feierabend. Danach ist mein Tagesgestaltung flexibel. Ich lasse die Seele baumeln, spiele etwas mit den Kinder. Der einzige Pflichtpunkt ist noch ein zweiter etwa halbstündiger Block für Arbeiten im Haushalt, den ich irgendwann am Rest des Tages erledige. Allerdings bin mit diesem zweiten Tageshälfte noch nicht zufreiden, weil ich noch zu viel sinnlos auf mein Smarthphone starre.
 
 ## Zusammenfassung
 
