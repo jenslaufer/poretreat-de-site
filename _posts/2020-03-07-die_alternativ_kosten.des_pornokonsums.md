@@ -5,7 +5,6 @@ image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1
 image_caption: "Photo by Javier Allegue Barros on Unsplash"
 ---
 
-
 Am Wochenende bin ich auf das spannende Konzept der **Alternativkosten** gestoßen:
 
 > Alternativkosten (manchmal auch als Opportunitätskosten oder Verzichtskosten bezeichnet) sind entgangener Nutzen, die dadurch entstehen, dass vorhandene Möglichkeiten (Opportunitäten) nicht wahrgenommen werden. Umgangssprachlich kann man auch von Kosten der Reue oder Kosten entgangener Gewinne sprechen.
