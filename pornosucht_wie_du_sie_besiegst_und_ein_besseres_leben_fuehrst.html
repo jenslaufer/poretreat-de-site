@@ -12,148 +12,180 @@
       --color6: white;
     }
 
-    * {
-      padding: 0;
-      margin: 0;
-    }
-
-    h1{
-      padding-bottom: 0.5em;
-      padding-top: 0.5em;
-    }
-
-    h2{
-      padding-bottom: 0.2em;
-      padding-top: 0.2em;
-    }
-
-    h3{
-      padding-bottom: 0.2em;
-      padding-top: 0.2em;
-    }
-
-    p{
-      padding-bottom: 0.2em;
-      padding-top: 0.2em;
-    }
-
-    
-    li{
-      padding-bottom: 0.2em;
-      padding-top: 0.2em;
-    }
-
     body {
-      padding: 0;
-      margin: 0;
       font-family: 'Raleway', 'Lato', 'Helvetica Neue', 'Arial', sans-serif;
-      font-size: 24px;
-      color: var(--color6);
+    }
 
+    p {
+      font-size: 20px;
+    }
+
+    section {
+      padding: 3em;
     }
 
     .marketing-header {
-      background-color: var(--color4);
+      background-color: var(--color5);
+      color: var(--color6);
+    }
+
+    .marketing-header h1 {
+      padding-bottom: 0.05em;
+      font-size: 65px;
+      font-weight: 800;
+    }
+
+    .marketing-header h2 {
+      padding-bottom: 1em;
+      font-size: 45px;
+      font-weight: 400;
+    }
+
+    .marketing-header h3 {
+      padding-top: 0.5em;
+      padding-bottom: 0.5em;
+      font-size: 35px;
+      font-weight: 400;
+    }
+    .marketing-header li {
+      padding-bottom: 0.1em;
+      font-size: 25px;
+      font-weight: 400;
+    }
+
+    .marketing-header .btn-primary {
+      background-color: var(--color2);
+      font-size: 24px;
+      font-weight: 700;
+      padding: 0.5em;
+    }
+
+    .marketing-header .col {
     }
 
     .testomonials {
-      background-color: var(--color3);
+      background-color: var(--color1);
     }
 
-    .benefits {}
+    .testomonials h3 {
+      margin-bottom: 1em;
+      font-weight: 700;
+    }
 
-    .cta {
-      background-color: var(--color2);
+    .benefits {
+      background-color: var(--color4);
+      color: var(--color6);
     }
   </style>
 </head>
 
 <body>
-  <div class="marketing-header">
-    <div>
-      <h1>Führe ein besseres Leben ohne Pornos</h1>
-      <h2>
-        Mein erprobtes Erfolgsrezept mit dem ich die Pornosucht überwunden habe
-      </h2>
-      <h3>In meinem eBook lernst du... </h3>
-      <ul>
-        <li>Wie du das süchtige Verhalten durch bessere Routinen ersetzt</li>
-        <li>
+  <section class="marketing-header">
+    <div class="row">
+      <div class="col">
+        <h1>Führe ein besseres Leben ohne Pornos</h1>
+        <h2>
+          Mein erprobtes Erfolgsrezept mit dem ich die Pornosucht überwunden habe
+        </h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        <h3>In meinem eBook lernst du... </h3>
+        <ul>
+          <li>Wie du das süchtige Verhalten durch bessere Routinen ersetzt</li>
+          <li>
+            Wie du mit kleinen Gewohnheiten deine Lebensqualität in allen
+            Bereichen verbessert
+          </li>
+          <li>Wie du gelassen mit Rückschlägen umgehst</li>
+        </ul>
+        <button class="btn btn-primary btn-lg">Starte heute dein Leben ohne Pornos für nur 9,90 €</button>
+      </div>
+      <div class="col"><img
+          src="https://res.cloudinary.com/jenslaufer/image/upload/c_scale,w_450/v1584522836/cover_cropped.png"
+          alt="Bookcover" /></div>
+    </div>
+    </div>
+  </section>
+  <section class="testomonials">
+    <h3>Was meine Leser sagen...</h3>
+    <div class="row">
+      <div class="col">
+        <p>
+          Ich bin erst am Anfang meines Weges, aber Jens hat mir vor Augen
+          geführt, dass ich die Welt der Pornos hinter mir lassen kann
+        </p>
+        <small>Frank S., Herne</small>
+      </div>
+      <div class="col">
+        <p>
+          Jens fragte, ob ich eine Empfehlung für das Buch schreiben will. Ich
+          kann nicht viel sagen, ausser, dass ich nun 8 Wochen ohne Pornos bin
+          und es mir gut geht.
+        </p>
+        <small>Olaf, Kirchentellinsfurt</small>
+      </div>
+      <div class="col">
+        <p>Das Buch war eine kleine Initialzündung für mein neues Leben: Ich lebe
+          gesünder, mache sogar Sport. Insgesamt lebe ich bewusster. Die Pornos
+          sind nur noch die Ausnahme und nicht mehr die Regel. Ich hoffe, ich
+          kann sie bald ganz loswerden.
+        </p>
+        <small>Anonym</small>
+      </div>
+      <div class="col">
+        <p>
+          Der Anfang des Buchs rühte mich zu Tränen, weil es ein Spiegelbild
+          meiner Geschichte ist. Das Buch ist praxisnah mit vielen Beispielen.
+          Es ist ein Weg, der für mich attraktiv ist jenseits der christlichen
+          12-Punkte-Programme. Ich stehe aber noch am Anfang
+        </p>
+        <small>Heiko, Schleiz (Thüringen)</small>
+      </div>
+    </div>
+  </section>
+  <section class="benefits">
+    <div class="row">
+      <div class="col">
+        <h4>Wie du das süchtige Verhalten durch bessere Routinen ersetzt</h4>
+        <p>
+          Routinen und Gewohnheiten bestimmen unser Leben. Ich zeige dir wie
+          schlechte Gewohnheiten entstehen, wie du gute Gewohnheiten etablierst
+          und die schlechten Gewohnheiten durch besseres Verhalten ersetzt.
+        </p>
+      </div>
+      <div class="col">
+        <h4>
           Wie du mit kleinen Gewohnheiten deine Lebensqualität in allen
           Bereichen verbessert
-        </li>
-        <li>Wie du gelassen mit Rückschlägen umgehst</li>
-      </ul>
-      <button class="cta">Starte heute dein Leben ohne Pornos für nur 9,90 €</button>
+        </h4>
+        <p>
+          Kleinen positive Gewohnheiten können eine Flut von vielen anderen
+          guten Gewohnheiten auslösen, die deine Pornosucht zurückdrängen. Ich
+          zeige dir wie du diese Flut auslöst.
+        </p>
+      </div>
+      <div class="col">
+        <h4>
+          Wie du gelassen mit Rückschlägen umgehst
+        </h4>
+        <p>
+          Rückschläge und Rückfälle werden passieren. Ich zeige dir, wie du
+          nicht wieder in die Abwärtsspirale aus Selbstmitleid und
+          Schuldgefühlen gerätst.
+        </p>
+      </div>
     </div>
-    <div><img src="https://res.cloudinary.com/jenslaufer/image/upload/c_scale,w_1200/v1584347767/1584347453.png"
-        alt="Bookcover" /></div>
-  </div>
-  <div class="testomonials">
-    <div>
-      <p>
-        Ich bin erst am Anfang meines Weges, aber Jens hat mir vor Augen
-        geführt, dass ich die Welt der Pornos hinter mir lassen kann
-      </p>
-      <small>Frank S., Herne</small>
-    </div>
-    <div>
-      <p>
-        Jens fragte, ob ich eine Empfehlung für das Buch schreiben will. Ich
-        kann nicht viel sagen, ausser, dass ich nun 8 Wochen ohne Pornos bin
-        und es mir gut geht.
-      </p>
-      <small>Olaf, Kirchentellinsfurt</small>
-    </div>
-    <div>
-      <p>Das Buch war eine kleine Initialzündung für mein neues Leben: Ich lebe
-        gesünder, mache sogar Sport. Insgesamt lebe ich bewusster. Die Pornos
-        sind nur noch die Ausnahme und nicht mehr die Regel. Ich hoffe, ich
-        kann sie bald ganz loswerden.
-      </p>
-      <small>Anonym</small>
-    </div>
-    <div>
-      <p>
-        Der Anfang des Buchs rühte mich zu Tränen, weil es ein Spiegelbild
-        meiner Geschichte ist. Das Buch ist praxisnah mit vielen Beispielen.
-        Es ist ein Weg, der für mich attraktiv ist jenseits der christlichen
-        12-Punkte-Programme. Ich stehe aber noch am Anfang
-      </p>
-      <small>Heiko, Schleiz (Thüringen)</small>
-    </div>
-  </div>
-  <div class="benefits">
-    <div>
-      <h4>Wie du das süchtige Verhalten durch bessere Routinen ersetzt</h4>
-      <p>
-        Routinen und Gewohnheiten bestimmen unser Leben. Ich zeige dir wie
-        schlechte Gewohnheiten entstehen, wie du gute Gewohnheiten etablierst
-        und die schlechten Gewohnheiten durch besseres Verhalten ersetzt.
-      </p>
-    </div>
-    <div>
-      <h4>
-        Wie du mit kleinen Gewohnheiten deine Lebensqualität in allen
-        Bereichen verbessert
-      </h4>
-      <p>
-        Kleinen positive Gewohnheiten können eine Flut von vielen anderen
-        guten Gewohnheiten auslösen, die deine Pornosucht zurückdrängen. Ich
-        zeige dir wie du diese Flut auslöst.
-      </p>
-    </div>
-    <div>
-      <h4>
-        Wie du gelassen mit Rückschlägen umgehst
-      </h4>
-      <p>
-        Rückschläge und Rückfälle werden passieren. Ich zeige dir, wie du
-        nicht wieder in die Abwärtsspirale aus Selbstmitleid und
-        Schuldgefühlen gerätst.
-      </p>
-    </div>
-  </div>
+  </section>
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+  </script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"
+    integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous">
+  </script>
 </body>
 
 </html>
