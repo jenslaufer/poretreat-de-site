@@ -10,6 +10,7 @@
       --color4: #374785;
       --color5: #24305E;
       --color6: white;
+      --color7: #DB3238;
     }
 
     body {
@@ -55,8 +56,8 @@
     }
 
     .marketing-header .btn-primary {
-      background-color: var(--color2);
-      font-size: 24px;
+      background-color: var(--color7);
+      font-size: 22px;
       font-weight: 700;
       padding: 0.5em;
     }
@@ -77,12 +78,27 @@
       font-size: 18px;
     }
 
-
     .testomonials p {
-      background-color:var(--color1);
-      font-size: 22px;
-      padding: 0.9em;
-      height: 250px;
+      background: var(--color1);
+      border-color: var(--color1);
+    }
+
+    .bubble {
+      border-radius: 12px;
+      margin: 0;
+      padding: 0.6em;
+      position: relative;
+    }
+
+    .bubble:after {
+      content: "";
+      position: absolute;
+      top: 100%;
+      left: 20px;
+      border-top: 15px solid blue;
+      border-top-color: inherit;
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
     }
 
     .benefits {
@@ -90,6 +106,15 @@
       color: var(--color6);
     }
 
+    .benefits h4 {
+      font-size: 27px;
+      font-weight: 800;
+      padding-bottom: 0.25em;
+    }
+
+    .benefits p {
+      font-size: 24px;
+    }
   </style>
 </head>
 
@@ -126,36 +151,36 @@
     <h3>Was meine Leser sagen...</h3>
     <div class="row">
       <div class="col">
-        <p >
+        <p class="bubble">
           Ich bin erst am Anfang meines Weges, aber Jens hat mir vor Augen
           geführt, dass ich die Welt der Pornos hinter mir lassen kann
         </p>
-        <small>Frank S., Herne</small>
+        <small><b>Frank S.</b>, Herne</small>
       </div>
       <div class="col">
-        <p>
-          Jens fragte, ob ich eine Empfehlung für das Buch schreiben will. Ich
-          kann nicht viel sagen, ausser, dass ich nun 8 Wochen ohne Pornos bin
-          und es mir gut geht.
-        </p>
-        <small>Olaf, Kirchentellinsfurt</small>
-      </div>
-      <div class="col">
-        <p>Das Buch war eine kleine Initialzündung für mein neues Leben: Ich lebe
-          gesünder, mache sogar Sport. Insgesamt lebe ich bewusster. Die Pornos
-          sind nur noch die Ausnahme und nicht mehr die Regel. Ich hoffe, ich
-          kann sie bald ganz loswerden.
-        </p>
-        <small>Anonym</small>
-      </div>
-      <div class="col">
-        <p>
+        <p class="bubble">
           Der Anfang des Buchs rühte mich zu Tränen, weil es ein Spiegelbild
           meiner Geschichte ist. Das Buch ist praxisnah mit vielen Beispielen.
           Es ist ein Weg, der für mich attraktiv ist jenseits der christlichen
           12-Punkte-Programme. Ich stehe aber noch am Anfang
         </p>
-        <small>Heiko, Schleiz (Thüringen)</small>
+        <small><b>Heiko</b>, Schleiz (Thüringen)</small>
+      </div>
+      <div class="col">
+        <p class="bubble">
+          Jens fragte, ob ich eine Empfehlung für das Buch schreiben will. Ich
+          kann nicht viel sagen, ausser, dass ich nun 8 Wochen ohne Pornos bin
+          und es mir gut geht.
+        </p>
+        <small><b>Olaf</b>, Kirchentellinsfurt</small>
+      </div>
+      <div class="col">
+        <p class="bubble">Das Buch war eine kleine Initialzündung für mein neues Leben: Ich lebe
+          gesünder, mache sogar Sport. Insgesamt lebe ich bewusster. Die Pornos
+          sind nur noch die Ausnahme und nicht mehr die Regel. Ich hoffe, ich
+          kann sie bald ganz loswerden.
+        </p>
+        <small><b>Anonym</b></small>
       </div>
     </div>
   </section>
@@ -182,12 +207,12 @@
       </div>
       <div class="col">
         <h4>
-          Wie du gelassen mit Rückschlägen umgehst
+          Wie du gelassen mit Rückschlägen und Rückfällen umgehst
         </h4>
         <p>
           Rückschläge und Rückfälle werden passieren. Ich zeige dir, wie du
           nicht wieder in die Abwärtsspirale aus Selbstmitleid und
-          Schuldgefühlen gerätst.
+          Schuldgefühlen gerätst, wie du nicht wieder in die alten Verhaltensmuster zurückfällst.
         </p>
       </div>
     </div>
