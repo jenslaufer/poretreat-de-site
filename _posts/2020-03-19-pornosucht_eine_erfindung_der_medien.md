@@ -12,23 +12,35 @@ denn schon über Pornosucht?
 Gerade hatte ich eine gegenteilige These aufgestellt: [Pornosucht das unterschätzte Problem](/blog/2020-02-21-pornosucht_das_unterschaetzte_problem.html)
 Ist Madita Oeming mein neues Feinbild?
 
+Als sich meine erste Empörung gelegt hatte und ich das Feindbild zur Seite gschoben hatte machte ich mich frei von meinen Vorurteilen gegenüber Geisteswissenschaftlern (ich bin selbst
+Naturwissenschaftler) raffte ich mich auf den Artikel zu lesen: Vorturteile bringen einem nicht weiter, Perspektivwechsel und das Verlassen des eigenen Schneckenhaus dagegen schon.
+.
+Ich kann nur eins sagen: Es lohnt sich wirklich den Artikel zu lesen, alleine wegen des exzellentem Storytelling. 
+Da kann ich mir als Blogger wirklich noch etwas abschauen. Am Anfang kam es erstmal knüppeldick für mich, weil Madita Oeming noch die These aufstellt, dass Pornosucht auch eine Erfindung 
+der Selbsthilfe-Industrie ist. Ein weiterer Angriff auf mich, weil ich mein Selbsthilfe-Buch verkaufe und nicht verschenke: Aber sie zeigt mir den Konflikt auf der von Anfang in  mir schwelt. Ist das jemanden anderen zu helfen mit kommerziellen Absicht vereinbar?
 
-Zum Abschluss kann ich eins sagen: Madita Oeming machen sie weiter und hoffentlich schliessen sie Ihre Promotion. Ich freue mich daruf sie zu lesen auf weitere befruchtende Artikel zum Thema
-Pornos, die Pornos
+Im Laufe des Artikels äussert Frau Oeming Einiges bei dem ich zustimmen kann.
 
-Als sich meine erste Emprörung gelegt hatte und ich das Feindbild gelegt hatte machte ich mich frei von meinen Vorurteilen gegenüber Geisteswissenschaftlern (ich bin selbst
-Naturwissenschaftler) und begann den Artikel einfach zu lesen, weil Vorturteile einem nicht weiterbringen. Stattdessen helfen Perspektvwechsel und das Verlassen des eigenen Schnekcenhauses.
-Ich kann nur eins sagen: Es lohnt sich wirklich ihre Artikel zu lesen, alleine wegen des guten Storytelling. 
-Da kann ich mir als Blogger wirklich noch etwas abschauen. Trotzdem kam es erstmal knüppeldick für mich, weil Madita Oeming auch noch die These auf, dass Pornosucht auch eine Erfindung 
-der Selbsthilfe-Industrie ist. Ein weiterer Angriff auf mich, weil ich mein Selbsthilfe-Buch verkaufe und nicht verschenke.
+> Auch in unserer aufgeklärten Gesellschaft fehlt es an Räumen, wo wir wertungsfrei über Sex sprechen können.
+
+Das ist ein guter Punkt. Ich hab das Gefühl, dass keiner über Sexualität spricht und die Pornoumsätze trotzdem Riesenumsätze verbucht. Sicherlich reden Männer über Sexualität, aber meist in Form von Rumprahlerei und Tittengrössenvergleicherien bzw Frauen werden als Objekt von Begierden gesehen: Man(n) muss Frauen zeigen wo der Hammer hängt. Ich bin Mr. Porno und trotzdem fand ich das immer schon abstossend. Wo ist der Raum wo wir Männer über unsere Fantasien aber mit Respekt gegenüber Fraunen sprechen? Wo ist der Raum, wo (männliche) Jugendliche über ihre erwachende Sexualität sprechen und lernen wie die reale Sexualiät abseits der Pornos ist. Wir lästern gerne über die Verklemmtheit der Amerikaner, aber sind wir so viel offner?
+
+> Pornosucht ist ein Zeichen für tieferliegender Probleme
+
+Da hat Frau Oeming völlig recht: Letztenendes betäuben wir mit Pornos unsere Verletzungen, schieben
+tieferliegende Probleme weg. Wir sollten diesen Problemen mehr Raum als uns Gedanken über unser süchtiges Verhalten zu machen.
+Ich sollte in Zukunft mehr Artikel über diese tieferliegenden Probleme schreiben.
+
+> Nicht nur dient die Kirche oft
+als physischer Raum, sondern auch als ideologischer Rahmen. Gott ist elementarer
+Bestandteil der zwölf Schritte – und auch vom Pornosucht-Narrativ als Ganzen.
+
+Ich konnte noch nie etwas damit anfangen, dass Gott mein Ausweg aus der Sucht sein soll. Vielmehr habe ich den Eindruck, die Kirche erhebt den Finger und will mir sagen wir unmoralisch Pornos sind. Pornos sind an sich nicht unmoralisch. Sie sind eine Spielart der Masturbation, die ich an sich für gefährlich halte, weil sie unsere Gehirn umprogammieren, wenn wir es übertreiben. Ähnlich wie kontrollierter Konsum von Alkhoholkein Problem. Unmoralisch an Problem können die Arbeitsbedingungen von Darstellern in der Pornoindustrie sein.
+
 
 Im Laufe des Artikels stellte ich immer mehr Gemeinsamkeiten 
 
-- Bin empört, wie jemand das sage kann, wo ich denke dass es eine hohe Dunkelziffer gibt
-- Pornos haben einen Leidensdruck in mir verursacht (kurfrister Dopamin, aber es könnten  Katzenvideos sein)
-- Die Artikel sind gut zu lesen, weil das Storytelling beherrscht
-- Ich bin jetzt Teil der Selbsthilfe-Industrie
-  - Ich stehe immer im Konflikt etwas verkaufen zu wollen, aber ich will helfen
+- Binhe immer im Konflikt etwas verkaufen zu wollen, aber ich will helfen
 - Doch Gemeinsamkeiten mit Madita Oeming:
   - Das Moralapostelgedöns der Kirche
   - Angst vor Stigmatisierung (Eric Meier -> Jens Laufer)
@@ -39,10 +51,6 @@ Im Laufe des Artikels stellte ich immer mehr Gemeinsamkeiten
 - Tieferliegende Probleme: Ein  interessanter Gedanke
 
 
-> Auch in unserer aufgeklärten Gesellschaft fehlt es an Räumen, wo wir wertungsfrei über Sex sprechen können.
-
-Die Pornoindustrie macht Riesenumsätze, jeder Mann tut es, aber kaum sprich jemand darüber. Wir lästern über die prüden Amerikaner, aber sind
-doch fast genauso.
 
 > Viele Feministinnen sehen mich als patriarchale Verräterin, während das Patriarchat mich als Feministin beschimpft.
 
@@ -52,6 +60,10 @@ MeToo. Nein, ich bin nicht der Meinung, dass wir den Frauen zeigen müssen was S
 > Es ist ein schmaler Grat zwischen Befreiung und Grenzüberschreitung.
 
 
+Zum Abschluss kann ich eins sagen: Madita Oeming machen sie weiter und hoffentlich schliessen sie Ihre Promotion. Ich freue mich daruf sie zu lesen auf weitere befruchtende Artikel zum Thema
+Pornos, die Pornos
+
+Quellen:
 
 [Ich werde fürs Pornogucken bezahlt](https://www.vice.com/de/article/eveymz/ich-werde-fuers-pornogucken-bezahlt)
 
