@@ -46,6 +46,7 @@ Ich habe noch nie verstanden warum mein Ausweg aus der Sucht sein soll. Vielmehr
 
 > Es ist ein schmaler Grat zwischen Befreiung und Grenzüberschreitung.
 
+
 Im Laufe des Artikels stellte ich immer mehr Gemeinsamkeiten 
 
 - Doch Gemeinsamkeiten mit Madita Oeming:
