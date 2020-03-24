@@ -31,24 +31,29 @@ Da hat Frau Oeming völlig recht: Letztenendes betäuben wir mit Pornos unsere V
 tieferliegende Probleme weg. Wir sollten diesen Problemen mehr Raum als uns Gedanken über unser süchtiges Verhalten zu machen.
 Ich sollte in Zukunft mehr Artikel über diese tieferliegenden Probleme schreiben.
 
+> ...unter dem Hashtag #NoFapChallenge werden Männer zum Verzicht auf Masturbation aufgerufen
+
+Mit der NoFap-Bewegung kann ich ebenso wie Madita Oeming wenig anfangen. Ich halte sie ebenfalls einen Rückschritt zu alten Zeiten. Masturbation ist etwas Tolles, weil wir auf eine kreativen Weise unsere Fantasien ausleben. Wir sind der Drehbuchautor und Zuschauer für unseren eigenen Porno im Kopfkino. Die Gedanken sind frei und das ist gut so. Wir dürfen auf Abwege geraten und diese sollten wir auch unserem Partner zugestehen. 
+
+Onanie zu Pornos ist zunächst nur eine Spielart der Masturbation. Ich halte sie allerdings für gefährlicher als die fantasievolle Masturbation: Nackte Menschen bekommt man normalerweise kaum zu Gesicht, in Pornos dagegen sehen wir nur perfekte Körper, das lässt uns auf Dauer abstumpfen, unsere reale Sexualität verkümmert. Die Bilder versetzen uns Männer in einen Rausch, weil wir vermutlich wesentlich visueller veranlagt sind als Frauen. Wir Männer sind deswegen wesentlich anfälliger für Pornossucht als Frauen. Man hört wenig von pornosüchtigen Frauen. Ein paar bunter Bilder bringen uns Männer in Fahrt, bei Frauen braucht es dazu schon etaws mehr. Wir Männer sind halt doch etwas einfach gestrickt.
+
 > Nicht nur dient die Kirche oft
 als physischer Raum, sondern auch als ideologischer Rahmen. Gott ist elementarer
 Bestandteil der zwölf Schritte – und auch vom Pornosucht-Narrativ als Ganzen.
 
-Ich konnte noch nie etwas damit anfangen, dass Gott mein Ausweg aus der Sucht sein soll. Vielmehr habe ich den Eindruck, die Kirche erhebt den Finger und will mir sagen wir unmoralisch Pornos sind. Pornos sind an sich nicht unmoralisch. Sie sind eine Spielart der Masturbation, die ich an sich für gefährlich halte, weil sie unsere Gehirn umprogammieren, wenn wir es übertreiben. Ähnlich wie kontrollierter Konsum von Alkhoholkein Problem. Unmoralisch an Problem können die Arbeitsbedingungen von Darstellern in der Pornoindustrie sein.
+Ich habe noch nie verstanden warum mein Ausweg aus der Sucht sein soll. Vielmehr habe ich den Eindruck, die Kirche steht mit erhobenen Zeigefinger da und will mir sagen wir unmoralisch Pornos sind. Pornos sind an sich nicht unmoralisch. Sie sind eine Spielart der Masturbation, die ich an sich für gefährlich halte, weil sie unsere Gehirn umprogammieren, wenn wir es übertreiben. Ähnlich wie moderater Alkoholkonsum unproblematisch ist, aber man eben leicht zum Alkoholiker werden kann. Unmoralisch an Pornos kann die Ausbeutung von Darstellern in der Pornoindustrie sein.
 
+
+> Es ist ein schmaler Grat zwischen Befreiung und Grenzüberschreitung.
 
 Im Laufe des Artikels stellte ich immer mehr Gemeinsamkeiten 
 
-- Binhe immer im Konflikt etwas verkaufen zu wollen, aber ich will helfen
 - Doch Gemeinsamkeiten mit Madita Oeming:
-  - Das Moralapostelgedöns der Kirche
   - Angst vor Stigmatisierung (Eric Meier -> Jens Laufer)
   - Ich sehe NoFap-bwegung kritisch
 - Ich habe sie auf LinkedIn kontaktiert, aber bekam keine Antwort
   - Vermutlich dachte sie wieder so ein Tastenwichser, der eigentlich seine sexuellen Fantasien teilen will
 - Moralisch gab es immer den Spagat zwischen "ich hasse das Frauenbild, dass in Pornos vermittelt, die Dominanz" wird und Dinge geilen mich auf
-- Tieferliegende Probleme: Ein  interessanter Gedanke
 
 
 
@@ -57,14 +62,13 @@ Im Laufe des Artikels stellte ich immer mehr Gemeinsamkeiten
 MeToo. Nein, ich bin nicht der Meinung, dass wir den Frauen zeigen müssen was Sache und uns nehmen was wir wollen durch "Überzeugungsarbeit". aber Wo ist der Raum zwischen sexueller Belästigung und wortreichen, zweideutigem eindeutigen hochschaukeln und anmachen. Einem Süssen Spiel. Kaann das ein Mann heute noch amchen,
 
 
-> Es ist ein schmaler Grat zwischen Befreiung und Grenzüberschreitung.
 
 
 Zum Abschluss kann ich eins sagen: Madita Oeming machen sie weiter und hoffentlich schliessen sie Ihre Promotion. Ich freue mich daruf sie zu lesen auf weitere befruchtende Artikel zum Thema
-Pornos, die Pornos
+Pornos. Lassen sie sich nicht von Leuten ein schlechtes Wissen einreden, weil sie Forschungsgelder für Pornoschauen bekommen. Für mich ist Wissenschaft Pänomene zu verstehen.
 
-Quellen:
+### Quellen:
 
-[Ich werde fürs Pornogucken bezahlt](https://www.vice.com/de/article/eveymz/ich-werde-fuers-pornogucken-bezahlt)
+[Madita Oeming: Ich werde fürs Pornogucken bezahlt](https://www.vice.com/de/article/eveymz/ich-werde-fuers-pornogucken-bezahlt)
 
-[Pornosucht ist eine Erfindung der Medien](/docs/Pornosucht_ist_eine_Erfindung_von_Medien.pdf)
+[Madita Oeming: Pornosucht ist eine Erfindung der Medien](/docs/Pornosucht_ist_eine_Erfindung_von_Medien.pdf)
