@@ -27,9 +27,15 @@
       padding: 3em;
     }
 
+
     .marketing-header {
       background-color: var(--color5);
       color: var(--color6);
+    }
+
+    .marketing-header img {
+      max-width: 100%;
+      height: auto;
     }
 
     .marketing-header h1 {
@@ -62,6 +68,8 @@
       font-size: 22px !important;
       font-weight: 700 !important;
       padding: 0.5em !important;
+      margin-top: 1.5em;
+      margin-bottom: 1.5em;
     }
 
     .marketing-header .col {}
@@ -119,6 +127,11 @@
       font-size: 24px;
     }
 
+    .cta {
+      color: var(--color6);
+      background-color: var(--color5);
+    }
+
     .cta-btn {
       background-color: var(--color3);
     }
@@ -128,21 +141,24 @@
       font-weight: 800;
     }
   </style>
+
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 </head>
 
 <body>
   <div class="container-fluid">
     <section class="marketing-header">
       <div class="row">
-        <div class="col-xl">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
           <h1>Führe ein besseres Leben ohne Pornos</h1>
           <h2>
-            Mein erprobtes Erfolgsrezept mit dem ich die Pornosucht überwunden habe
+            Mein eigenes Erfolgsrezept mit dem du die Pornosucht überwinden kannst
           </h2>
         </div>
       </div>
       <div class="row">
-        <div class="col-xl-5">
+        <div class="col-xl-4 col-lg-12 col-md- col-sm-12">
           <h3>In meinem eBook lernst du... </h3>
           <ul>
             <li>Wie du das süchtige Verhalten durch bessere Routinen ersetzt</li>
@@ -154,22 +170,22 @@
           </ul>
           <button class="btn btn-primary btn-lg btn-cta">Starte heute dein Leben ohne Pornos für nur 9,90 €</button>
         </div>
-        <div class="col-xl"><img
+        <div class="col-xl col-lg-12 col-md col-sm"><img
             src="https://res.cloudinary.com/jenslaufer/image/upload/c_scale,w_450/v1584522836/cover_cropped.png"
             alt="Bookcover" /></div>
       </div>
     </section>
     <section class="testimonial">
-      <h3>Was meine Leser sagen...</h3>
+      <h3>Was die Leser sagen...</h3>
       <div class="row">
-        <div class="col-xl">
+        <div class="col-xl col-lg col-md-12 col-sm-12">
           <p class="bubble">
             Ich bin erst am Anfang meines Weges, aber Jens hat mir vor Augen
             geführt, dass ich die Welt der Pornos hinter mir lassen kann
           </p>
           <small><b>Frank S.</b>, Herne</small>
         </div>
-        <div class="col-xl">
+        <div class="col-xl col-lg col-md-12 col-sm-12">
           <p class="bubble">
             Der Anfang des Buchs rühte mich zu Tränen, weil es ein Spiegelbild
             meiner Geschichte ist. Das Buch ist praxisnah mit vielen Beispielen.
@@ -178,7 +194,7 @@
           </p>
           <small><b>Heiko</b>, Schleiz (Thüringen)</small>
         </div>
-        <div class="col-xl">
+        <div class="col-xl col-lg col-md-12 col-sm-12">
           <p class="bubble">
             Jens fragte, ob ich eine Empfehlung für das Buch schreiben will. Ich
             kann nicht viel sagen, ausser, dass ich nun 8 Wochen ohne Pornos bin
@@ -186,7 +202,7 @@
           </p>
           <small><b>Olaf</b>, Kirchentellinsfurt</small>
         </div>
-        <div class="col-xl">
+        <div class="col-xl col-lg col-md-12 col-sm-12">
           <p class="bubble">Das Buch war eine kleine Initialzündung für mein neues Leben: Ich lebe
             gesünder, mache sogar Sport. Insgesamt lebe ich bewusster. Die Pornos
             sind nur noch die Ausnahme und nicht mehr die Regel. Ich hoffe, ich
@@ -198,7 +214,7 @@
     </section>
     <section class="benefits">
       <div class="row">
-        <div class="col-xl">
+        <div class="col-xl col-lg col-md-12 col-sm-12">
           <h4>Wie du das süchtige Verhalten durch bessere Routinen ersetzt</h4>
           <p>
             Routinen und Gewohnheiten bestimmen unser Leben. Ich zeige dir wie
@@ -206,7 +222,7 @@
             und die schlechten Gewohnheiten durch besseres Verhalten ersetzt.
           </p>
         </div>
-        <div class="col-xl">
+        <div class="col-xl col-lg col-md-12 col-sm-12">
           <h4>
             Wie du mit kleinen Gewohnheiten deine Lebensqualität in allen
             Bereichen verbessert
@@ -217,7 +233,7 @@
             zeige dir wie du diese Flut auslöst.
           </p>
         </div>
-        <div class="col-xl">
+        <div class="col-xl col-lg col-md-12 col-sm-12">
           <h4>
             Wie du gelassen mit Rückschlägen und Rückfällen umgehst
           </h4>
@@ -231,7 +247,7 @@
     </section>
     <section class="cta">
       <div class="row justify-content-center">
-        <div class="col-xl-6 col-xl-auto">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
           <h4>Heute ist der erste Tag vom Rest deines Leben</h4><button class="btn btn-primary btn-lg btn-cta">Starte
             heute dein
             Leben ohne Pornos für nur 9,90 €</button>
@@ -239,8 +255,6 @@
       </div>
     </section>
   </div>
-  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
     integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
   </script>
