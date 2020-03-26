@@ -1,8 +1,8 @@
 ---
 title: "Pornosucht eine Erfindung der Medien?"
 subtitle: "Eine Auseinandersetzung mit den Thesen von Madita Oeming"
-image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1584428991/thisisengineering-raeng-vGA1ei1yxos-unsplash.jpg"
-image_caption: "Photo by ThisisEngineering RAEng on Unsplash"
+image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1585207758/austin-distel-Hg3BHX6U5jg-unsplash.jpg"
+image_caption: "Photo by Austin Distel on Unsplash"
 ---
 
 __[Pornosucht ist eine Erfindung der Medien](/docs/Pornosucht_ist_eine_Erfindung_von_Medien.pdf)__  Diese These stellt Madita Oemning in ihrem Artikel auf.
@@ -22,13 +22,8 @@ Anbei gehe ich auf einige interessante Thesen von Madita Oeming ein:
 
 > Auch in unserer aufgeklärten Gesellschaft fehlt es an Räumen, wo wir wertungsfrei über Sex sprechen können.
 
-Das ist ein guter Punkt. Ich hab das Gefühl, dass keiner über Sexualität spricht und die Pornoindustrie trotzdem Riesenumsätze verbucht. Sicherlich sprechen Männer über Sexualität, aber meist in Form von Rumprahlerei und Brustgrössenvergleichen. Frauen werden als Objekt von Begierden gesehen; Man(n) muss Frauen zeigen wo der Hammer hängt. Ich bin Mr. Porno und trotzdem fand ich das immer schon abstossend. Wo ist der Raum wo wir Männer über unsere Fantasien aber mit Respekt gegenüber Fraunen sprechen? Wo können (männliche) Jugendliche etwas über reale Sexualität lernen abseits der Pornografie? Ich meine das nicht im Sinne von Pädophilen, die meinen Erwachsene müssten Jugendliche und Kinder bei ihrer erwachenden Sexualtität "unterstützen".  
+Das ist ein guter Punkt. Ich hab das Gefühl, dass keiner über Sexualität spricht und die Pornoindustrie trotzdem Riesenumsätze verbucht. Sicherlich sprechen Männer über Sexualität, aber meist in prahlerischen Weise oder Vergleich von Brustgrössen. Frauen werden als Objekt von Begierden gesehen; Man(n) muss Frauen zeigen wo der Hammer hängt. Ich bin Mr. Porno und trotzdem fand ich das immer schon abstossend. Wo ist der Raum wo wir Männer über unsere Fantasien aber mit Respekt gegenüber Fraunen sprechen? Wo können (männliche) Jugendliche etwas über reale Sexualität lernen abseits der Pornografie?  Ich meine das nicht im Sinne von Pädophilen, die meinen Erwachsene müssten Jugendliche und Kinder bei ihrer erwachenden Sexualtität "unterstützen", sondern eher einer Plattform wie sie Dr. Sommer in der Zeitschrift in der Bravo zur Verfügung stellte.
 
-> Pornosucht ist ein Zeichen für tieferliegender Probleme
-
-Da hat Frau Oeming völlig recht: Letztenendes betäuben wir mit Pornos unsere Verletzungen, schieben
-tieferliegende Probleme weg. Wir sollten diesen Problemen mehr Raum als unseren süchtiges Verhalten zugestehen.
-Ich nehme für mich mit, dass ich in Zukunft mehr Artikel über diese tieferliegenden Probleme schreiben. möchte.
 
 > ...unter dem Hashtag #NoFapChallenge werden Männer zum Verzicht auf Masturbation aufgerufen
 
@@ -42,29 +37,22 @@ Bestandteil der zwölf Schritte – und auch vom Pornosucht-Narrativ als Ganzen.
 
 Ich habe noch nie verstanden warum Gott mein Ausweg aus der Sucht sein soll. Vielmehr habe ich den Eindruck, die Kirche steht mit erhobenen Zeigefinger da und will mir sagen wir unmoralisch Pornos sind. Pornos sind an sich nicht unmoralisch. Sie sind eine Spielart der Masturbation, die ich an sich für gefährlich halte, weil sie unsere Gehirn umprogammieren, wenn wir es übertreiben. Ähnlich wie moderater Alkoholkonsum unproblematisch ist, aber man eben leicht zum Alkoholiker werden kann. Unmoralisch an Pornos kann die Ausbeutung von Darstellern in der Pornoindustrie sein.
 
+> Wer täglich zu Pornos masturbiert, ist nicht automatisch krank. Ganz im Gegenteil.
 
-> Es ist ein schmaler Grat zwischen Befreiung und Grenzüberschreitung.
+...wenn Derjenige den Pornokonsum nicht kontrollieren kann, oder wenn er zunehmend Schwierigkeiten bei der Sexualität in der Partnerschaft entwickelt dann vielleicht doch. Ob man es krank nennt, darüber kann man sich streiten. Bestimmte Süchte sind schwer nachzuvollziehen, wenn jemand nicht unter ihnen leidet, so wie für mich Kauf- oder Spielsucht.
 
 
-Im Laufe des Artikels stellte ich immer mehr Gemeinsamkeiten 
+> Pornosucht ist ein Zeichen für tieferliegender Probleme
 
-- Doch Gemeinsamkeiten mit Madita Oeming:
-  - Angst vor Stigmatisierung (Eric Meier -> Jens Laufer)
-  - Ich sehe NoFap-bwegung kritisch
-- Ich habe sie auf LinkedIn kontaktiert, aber bekam keine Antwort
-  - Vermutlich dachte sie wieder so ein Tastenwichser, der eigentlich seine sexuellen Fantasien teilen will
-- Moralisch gab es immer den Spagat zwischen "ich hasse das Frauenbild, dass in Pornos vermittelt, die Dominanz" wird und Dinge geilen mich auf
+Da hat Frau Oeming völlig recht: Letztenendes betäuben wir mit Pornos unsere Verletzungen, schieben
+tieferliegende Probleme weg. Wir sollten diesen Problemen mehr Raum als unseren süchtiges Verhalten zugestehen.
+Ich nehme für mich mit, dass ich in Zukunft mehr Artikel über diese tieferliegenden Probleme schreiben. möchte.
 
 
 
-> Viele Feministinnen sehen mich als patriarchale Verräterin, während das Patriarchat mich als Feministin beschimpft.
+Meine Ansichten zu Pornografie sind gar nicht so unterscheidlich im Vergleich zu Frau Oeming. Ich halte Pornos für an sich nicht unmoralisch, sie sind eine Kunstform, die gar nicht unbedingt etwas mit der Realität zu tun haben müssen. So wie das Bild von Liebe in Romanzen nicht unbedingt realistisch ist. Selbstverständlich kann Masturbation zu einem Porno eine Ergänzung zur partnerschaftlichen Sexualität bzw. zur Onanie ohne Pornos. Allerdings denke ich, dass das Dosis das Gift macht. Wenn wir es übertreiben, dann können Pornos hochgradig süchtig machen mit all den Begleiterscheinungen, die dazu gehören: Kontrollverlust, Probleme bei der realen Sexualität etc.
 
-MeToo. Nein, ich bin nicht der Meinung, dass wir den Frauen zeigen müssen was Sache und uns nehmen was wir wollen durch "Überzeugungsarbeit". aber Wo ist der Raum zwischen sexueller Belästigung und wortreichen, zweideutigem eindeutigen hochschaukeln und anmachen. Einem Süssen Spiel. Kaann das ein Mann heute noch amchen,
-
-
-
-
-Zum Abschluss kann ich eins sagen: Madita Oeming machen sie weiter und hoffentlich schliessen sie Ihre Promotion. Ich freue mich daruf sie zu lesen auf weitere befruchtende Artikel zum Thema
+Zum Abschluss möchte ich eins sagen: Madita Oeming machen sie weiter und hoffentlich schliessen sie Ihre Promotion. Ich freue mich daruf sie zu lesen auf weitere befruchtende Artikel zum Thema
 Pornos. Lassen sie sich nicht von Leuten ein schlechtes Wissen einreden, weil sie Forschungsgelder für Pornoschauen bekommen. Für mich ist Wissenschaft Pänomene zu verstehen.
 
 ### Quellen:
