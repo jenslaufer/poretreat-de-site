@@ -1,5 +1,5 @@
 ---
-title: "Pornosucht eine Erfindung der Medien?"
+title: "Pornosucht eine Erfindung der Medien (und Selbsthilfeindustrie)?"
 subtitle: "Eine Auseinandersetzung mit den Thesen von Madita Oeming"
 image: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1585207758/austin-distel-Hg3BHX6U5jg-unsplash.jpg"
 image_caption: "Photo by Austin Distel on Unsplash"
