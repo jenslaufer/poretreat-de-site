@@ -37,3 +37,5 @@ Eigne dir eine gute Morgenroutine an, um den Tag gut zu starten. Es gilt zu verm
 
 
 ### Wir haben mehr Zeit
+
+Du arbeitest im Homeoffice, weswegen du nicht zu Arbeit pendelst, du bist auf Kurzarbeit bzw. es gibt sowieso wenig zu tun gerade. Das ist zunächst positiv, aber diese Zeit muss gefüllt werden. Als Süchtiger ist die Verlockung groß diese Zeit mit Pornos zu füllen. Das gilt es zu vermeiden, weil es nicht gut ist, wenn du in den Sumpf abrutschst.
