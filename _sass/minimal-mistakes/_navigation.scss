@@ -205,7 +205,7 @@
       border: 0;
       outline: none;
       color: #fff;
-      background-color: $primary-color;
+      background-color: $own-brand-color;
       cursor: pointer;
     }
 
@@ -276,7 +276,7 @@
         font-size: $type-size-5;
 
         &:hover {
-          color: $masthead-link-color-hover;
+          color: white;
           background: $navicon-link-color-hover;
         }
       }
