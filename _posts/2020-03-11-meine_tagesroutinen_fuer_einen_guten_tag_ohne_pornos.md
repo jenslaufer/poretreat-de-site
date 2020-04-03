@@ -46,7 +46,8 @@ Zum Zähneputzen gibt es nicht viel zu sagen, außer, dass das frische Gefühl i
 ### 07:25 Meditation
 
 Seit ein paar Monaten meditiere ich. Ich stehe noch am Anfang meiner Reise, stelle aber fest, dass das Meditieren mir gut tut. Die Konzentration auf den Atem bringt mich runter. Die Bewusstseinübungen sind im Übrigen sehr hilfreich beim Beiseiteschieben des Drang nach Pornos. Meditation ist definitiv ein Thema über das demnächst schreiben möchte.
-[Headspace](https://www.headspace.com/) ist eine App für geführte Meditation mit der ich gute Erfahrungen gemacht habe.
+
+Im Artikel ["Meditation gegen Pornos?"](/blog/meditation_gegen_pornos.html) beschäftige ich mich genauer mit dem Thema.
 
 ### 08:00 Arbeit
 
