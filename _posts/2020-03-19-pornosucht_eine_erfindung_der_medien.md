@@ -23,7 +23,7 @@ Anbei gehe ich auf einige interessante Thesen von Madita Oeming ein:
 
 > Auch in unserer aufgeklärten Gesellschaft fehlt es an Räumen, wo wir wertungsfrei über Sex sprechen können.
 
-Das ist ein guter Punkt. Ich hab das Gefühl, dass keiner über Sexualität spricht und die Pornoindustrie trotzdem Riesenumsätze verbucht. Sicherlich sprechen Männer über Sexualität, aber meist in prahlerischer, die eigenen Eroberungen in Vordergrund stellender bzw. Frauen abwertender Weise. Es werden Brustgrößen verglichen und über Hintern gelästert; Man(n) muss Frauen zeigen wo der Hammer hängt. Ich bin Mr. Porno und trotzdem fand ich das immer schon abstossend. Wo ist der Raum wo wir Männer über unsere Fantasien aber mit Respekt gegenüber Frauen sprechen? Wo können (männliche) Jugendliche etwas über reale Sexualität lernen abseits der Pornografie? Ich meine das nicht in einer Weise, bei der Erwachsene meinen sie müssten Jugendliche/Kindern bei ihrer erwachenden Sexualtität "unterstützen". Das ist schlichtweg Pädophilie. Ich denke eher an Plattformen wie sie Dr. Sommer in der Zeitschrift Bravo zur Verfügung stellte. Das kommt 2020 allerdings etwas angestaubt daher.
+Das ist ein guter Punkt. Ich hab das Gefühl, dass keiner über Sexualität spricht und die Pornoindustrie trotzdem Riesenumsätze verbucht. Sicherlich sprechen Männer über Sexualität, aber meist in prahlerischer, die eigenen Eroberungen in Vordergrund stellender bzw. Frauen abwertender Weise. Es werden Brustgrößen verglichen und über Hintern gelästert; Man(n) muss Frauen zeigen wo der Hammer hängt. Ich bin Mr. Porno und trotzdem fand ich das immer schon abstoßend. Wo ist der Raum wo wir Männer über unsere Fantasien aber mit Respekt gegenüber Frauen sprechen? Wo können (männliche) Jugendliche etwas über reale Sexualität lernen abseits der Pornografie? Ich meine das nicht in einer Weise, bei der Erwachsene meinen sie müssten Jugendliche/Kindern bei ihrer erwachenden Sexualität "unterstützen". Das ist schlichtweg Pädophilie. Ich denke eher an Plattformen wie sie Dr. Sommer in der Zeitschrift Bravo zur Verfügung stellte. Das kommt 2020 allerdings etwas angestaubt daher.
 
 
 > ...unter dem Hashtag #NoFapChallenge werden Männer zum Verzicht auf Masturbation aufgerufen
@@ -36,7 +36,7 @@ Onanie zu Pornos ist zunächst nur eine Spielart. Selbstverständlich haben Porn
 als physischer Raum, sondern auch als ideologischer Rahmen. Gott ist elementarer
 Bestandteil der zwölf Schritte – und auch vom Pornosucht-Narrativ als Ganzen.
 
-Ich habe noch nie verstanden warum Gott mein Ausweg aus der Sucht sein soll. Vielmehr habe ich den Eindruck, die Kirche steht mit erhobenen Zeigefinger da und will mir sagen wie unmoralisch Pornos sind. Pornos sind an sich nicht unmoralisch. Unmoralisch an Pornos kann die Ausbeutung von Darstellern in der Pornoindustrie sein. Aber ich bin mir sicher man kann Pornos auch fair produzieren. Wie wäre es mit einem Prüfsiegel für den "fairen Porno"? Masturbation mit Pornos sind eine Spielart, die ich für problematisch halte, weil sie unsere Gehirn umprogammiert, wenn wir es übertreiben. Ähnlich wie moderater Alkoholkonsum unproblematisch ist, kann man zum Alkoholiker werden wenn man es übertreibt. 
+Ich habe noch nie verstanden warum Gott mein Ausweg aus der Sucht sein soll. Vielmehr habe ich den Eindruck, die Kirche steht mit erhobenen Zeigefinger da und will mir sagen wie unmoralisch Pornos sind. Pornos sind an sich nicht unmoralisch. Unmoralisch an Pornos kann die Ausbeutung von Darstellern in der Pornoindustrie sein. Aber ich bin mir sicher man kann Pornos auch fair produzieren. Wie wäre es mit einem Prüfsiegel für den "fairen Porno"? Masturbation mit Pornos sind eine Spielart, die ich für problematisch halte, weil sie unsere Gehirn umprogrammiert, wenn wir es übertreiben. Ähnlich wie moderater Alkoholkonsum unproblematisch ist, kann man zum Alkoholiker werden wenn man es übertreibt. 
 
 > Wer täglich zu Pornos masturbiert, ist nicht automatisch krank. Ganz im Gegenteil.
 
@@ -53,9 +53,9 @@ Ich nehme für mich mit, dass ich in Zukunft mehr Artikel über diese tieferlieg
 
 Meine Ansichten zu Pornografie unterscheiden sich gar nicht so sehr zu denen von Frau Oeming. Ich halte Pornos für an sich nicht unmoralisch, sie sind eine Kunstform, die gar nicht unbedingt etwas mit der Realität zu tun haben müssen. So wie das Bild von Liebe in Romanzen nicht unbedingt realistisch ist. Selbstverständlich kann Masturbation zu einem Porno eine Ergänzung zur partnerschaftlichen Sexualität bzw. zur Onanie ohne Pornos sein. Allerdings denke ich, dass die Dosis das Gift macht. Wenn wir es übertreiben, dann können Pornos hochgradig süchtig machen mit all den Begleiterscheinungen, die auftreten können: Kontrollverlust, Schuldgefühlen, Probleme bei der realen Sexualität etc.
 
-In einem zweiten, ebenfalls lesenswerten, Artikel berichtet Frau Oeming von Schwierigkeiten ihre Promotion abzuschliessen bzw. dem Gegenwind, der ihr aus verschiedenen Richtungen entgegenweht, sowie der Stigmatisierung bei dem Thema.
+In einem zweiten, ebenfalls lesenswerten, Artikel berichtet Frau Oeming von Schwierigkeiten ihre Promotion abzuschließen bzw. dem Gegenwind, der ihr aus verschiedenen Richtungen entgegenweht, sowie der Stigmatisierung bei dem Thema.
 
-Ich hoffe, dass Frau Oeming ihre Promotion abschliessen kann. Ich freue mich sie zu lesen bzw. auf weitere befruchtende Artikel zum Thema Pornografie. 
+Ich hoffe, dass Frau Oeming ihre Promotion abschließen kann. Ich freue mich sie zu lesen bzw. auf weitere befruchtende Artikel zum Thema Pornografie. 
 
 ### Quellen:
 
