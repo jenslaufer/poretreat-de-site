@@ -23,7 +23,7 @@ Meist bin ich noch recht müde. Sport zu machen fällt in dem Moment wirklich sc
 
 ### 06:00 Kalt duschen
 
-Am Ende des Sports freue ich mich bereits auf die Dusche. Der erste Duschgang ist eiskalt. Das kostet ein wenig Überwindung, ist jedoch unglaublich erfrischend. Danach dusche ich heiss und noch einmal kalt. In Kombination mit dem Sport fühle ich mich wach, frisch und voller Energie: Bereit für den Tag. Das Gefühl etwas für mich getan zu haben fühlt sich sehr gut an.
+Am Ende des Sports freue ich mich bereits auf die Dusche. Der erste Duschgang ist eiskalt. Das kostet ein wenig Überwindung, ist jedoch unglaublich erfrischend. Danach dusche ich heiß und noch einmal kalt. In Kombination mit dem Sport fühle ich mich wach, frisch und voller Energie: Bereit für den Tag. Das Gefühl etwas für mich getan zu haben fühlt sich sehr gut an.
 
 ### 06:10 Frühstück vorbereiten
 
@@ -46,7 +46,8 @@ Zum Zähneputzen gibt es nicht viel zu sagen, außer, dass das frische Gefühl i
 ### 07:25 Meditation
 
 Seit ein paar Monaten meditiere ich. Ich stehe noch am Anfang meiner Reise, stelle aber fest, dass das Meditieren mir gut tut. Die Konzentration auf den Atem bringt mich runter. Die Bewusstseinübungen sind im Übrigen sehr hilfreich beim Beiseiteschieben des Drang nach Pornos. Meditation ist definitiv ein Thema über das demnächst schreiben möchte.
-[Headspace](https://www.headspace.com/) ist eine App für geführte Meditation mit der ich gute Erfahrungen gemacht habe.
+
+Im Artikel ["Meditation gegen Pornos?"](/blog/meditation_gegen_pornos.html) beschäftige ich mich genauer mit dem Thema.
 
 ### 08:00 Arbeit
 
@@ -76,7 +77,7 @@ Nach dem Mittagsessen arbeite ich nochmal 3 Blöcke. In den Pausen mache ich kur
 
 ### 15:30 Feierabend
 
-Gegen halb vier mache ich Feierabend. Danach ist meine Tagesgestaltung flexibel. Ich lasse die Seele baumeln, beschäftige mich mit meinen Kinder. Der einzige Pflichtpunkt ist noch ein zweiter etwa halbstündiger Block für Arbeiten im Haushalt, den ich irgendwann am Rest des Tages erledige. Allerdings bin mit diesem zweiten Tageshälfte noch nicht zufrieden, weil ich noch zu viel sinnlos auf mein Smarthphone starre. Häufig kann ich nichts mit mir anfangen. Mir fehlen noch Hobbies, die mich mich erfüllen. Wenn ich mit den Kindern spiele, dann bin ich manchmal nicht bei der Sache. Hier gibt es definitiv noch Verbesserungsprotential. Aber ich möchte mich nicht zu sehr unter der Druck setzen.
+Gegen halb vier mache ich Feierabend. Danach ist meine Tagesgestaltung flexibel. Ich lasse die Seele baumeln, beschäftige mich mit meinen Kinder. Der einzige Pflichtpunkt ist noch ein zweiter etwa halbstündiger Block für Arbeiten im Haushalt, den ich irgendwann am Rest des Tages erledige. Allerdings bin mit diesem zweiten Tageshälfte noch nicht zufrieden, weil ich noch zu viel sinnlos auf mein Smartphone starre. Häufig kann ich nichts mit mir anfangen. Mir fehlen noch Hobbies, die mich mich erfüllen. Wenn ich mit den Kindern spiele, dann bin ich manchmal nicht bei der Sache. Hier gibt es definitiv noch Verbesserungspotential. Aber ich möchte mich nicht zu sehr unter der Druck setzen.
 
 ## Zusammenfassung
 
