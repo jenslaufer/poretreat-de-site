@@ -23,7 +23,7 @@ Meist bin ich noch recht müde. Sport zu machen fällt in dem Moment wirklich sc
 
 ### 06:00 Kalt duschen
 
-Am Ende des Sports freue ich mich bereits auf die Dusche. Der erste Duschgang ist eiskalt. Das kostet ein wenig Überwindung, ist jedoch unglaublich erfrischend. Danach dusche ich heiss und noch einmal kalt. In Kombination mit dem Sport fühle ich mich wach, frisch und voller Energie: Bereit für den Tag. Das Gefühl etwas für mich getan zu haben fühlt sich sehr gut an.
+Am Ende des Sports freue ich mich bereits auf die Dusche. Der erste Duschgang ist eiskalt. Das kostet ein wenig Überwindung, ist jedoch unglaublich erfrischend. Danach dusche ich heiß und noch einmal kalt. In Kombination mit dem Sport fühle ich mich wach, frisch und voller Energie: Bereit für den Tag. Das Gefühl etwas für mich getan zu haben fühlt sich sehr gut an.
 
 ### 06:10 Frühstück vorbereiten
 
@@ -77,7 +77,7 @@ Nach dem Mittagsessen arbeite ich nochmal 3 Blöcke. In den Pausen mache ich kur
 
 ### 15:30 Feierabend
 
-Gegen halb vier mache ich Feierabend. Danach ist meine Tagesgestaltung flexibel. Ich lasse die Seele baumeln, beschäftige mich mit meinen Kinder. Der einzige Pflichtpunkt ist noch ein zweiter etwa halbstündiger Block für Arbeiten im Haushalt, den ich irgendwann am Rest des Tages erledige. Allerdings bin mit diesem zweiten Tageshälfte noch nicht zufrieden, weil ich noch zu viel sinnlos auf mein Smarthphone starre. Häufig kann ich nichts mit mir anfangen. Mir fehlen noch Hobbies, die mich mich erfüllen. Wenn ich mit den Kindern spiele, dann bin ich manchmal nicht bei der Sache. Hier gibt es definitiv noch Verbesserungsprotential. Aber ich möchte mich nicht zu sehr unter der Druck setzen.
+Gegen halb vier mache ich Feierabend. Danach ist meine Tagesgestaltung flexibel. Ich lasse die Seele baumeln, beschäftige mich mit meinen Kinder. Der einzige Pflichtpunkt ist noch ein zweiter etwa halbstündiger Block für Arbeiten im Haushalt, den ich irgendwann am Rest des Tages erledige. Allerdings bin mit diesem zweiten Tageshälfte noch nicht zufrieden, weil ich noch zu viel sinnlos auf mein Smartphone starre. Häufig kann ich nichts mit mir anfangen. Mir fehlen noch Hobbies, die mich mich erfüllen. Wenn ich mit den Kindern spiele, dann bin ich manchmal nicht bei der Sache. Hier gibt es definitiv noch Verbesserungspotential. Aber ich möchte mich nicht zu sehr unter der Druck setzen.
 
 ## Zusammenfassung
 
