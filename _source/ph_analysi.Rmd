@@ -1,0 +1,29 @@
+---
+title: "Analysis"
+author: "Jens Laufer"
+date: "8 4 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F, message = F, warning = F)
+```
+
+```{r}
+library(tidyverse)
+library(glue)
+library(bbplot)
+```
+
+
+```{r}
+data <- read_csv("../_data/ps_usage.csv") %>% 
+  mutate(`Durchschnittliche Benutzungszeit`=`Durchschnittliche Benutzungszeit`/60, Jahr=as.factor(Jahr))
+```
+
+
+```{r}
+data %>% 
+  ggplot(aes(x=year))
+```
+
