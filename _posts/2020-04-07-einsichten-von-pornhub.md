@@ -10,4 +10,6 @@ Datensätze zu finden, die mir Einblicke bzgl des Konsums von "Nutzern" von Porn
 ich habe einen interessante Subsektion des Pornoanbieter PornHub gefunden, der einer der größten Webseiten für pornografische Inhalte im Internet betreibt.
 
 PornHub betreibt ein Blog in dem sie Erkenntnisse aus den Millionen von Daten, die sie verfügen, publizieren. So veröffentlichen sie Nutzungsstatistiken ihrer Seiten während z.B. großer Sportevents, Wahlen oder Feiertage.
-Am Ende des Jahres geben sie einen Bericht mit den Statistiken für das zurückliegende Jahr heraus. Bei der Durchsicht der Berichte bin auf etwas Interessantes gestoßen. 
+Am Ende des Jahres geben sie einen Bericht mit den Statistiken für das zurückliegende Jahr heraus. Bei der Durchsicht der Berichte bin ich darauf gestoßen, daß die durchschnittliche Zeit, die ein Besucher auf der Webseite verbringt in den letzten Jahren stets angestiegen ist. In diesem Zusammenhang wird es interessant wie sich die [Coronakrise](/blog/unsere_sucht_in_zeiten_der_coronakrise.html) auf die Aufenthaltsdauer 2020 auswirkt. 
+
+![Durchschnittliche Aufenthaltsdauer auf PornHub in Minuten](/assets/img/porn_hub_consumption.png)
