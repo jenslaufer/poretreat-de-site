@@ -1,0 +1,11 @@
+version: "3.0"
+
+services:
+  poretreat-site:
+    image: jekyll/jekyll:3.8.5
+    container_name: poretreat-site
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - 8080:4000
+    entrypoint: jekyll serve --trace #-H localhost
